@@ -1,4 +1,4 @@
-# Pratikum 3 | Tipe data, Variable, dan Operator
+# Pratikum 1 | Tipe data, Variable, dan Operator
 
 Nama : Tiara Hayatul Khoir
 
