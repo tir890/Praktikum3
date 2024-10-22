@@ -1,4 +1,4 @@
-# Pratikum 1 | Tipe data, Variable, dan Operator
+# Praktikum 1 | Tipe Data, Variable, dan Operator
 
 Nama : Tiara Hayatul Khoir
 
@@ -8,7 +8,7 @@ NIM : 321410474
 
 Mata Kuliah : Bahasa Pemrograman
 
-## Mencari Bilangan Terbesar Dari Bilangan yang Diinputkan
+## Mencari Bilangan Terbesar dari Bilangan yang Diinputkan
 Program ini menentukan bilangan terbesar dari serangkaian bilangan yang diinputkan hingga input 0. Program ini menggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang ditemukan
 
 ## Flowchart 
