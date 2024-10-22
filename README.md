@@ -76,4 +76,4 @@ Jika count > 0, artinya pengguna telah memasukkan setidaknya satu bilangan, dan 
 Jika tidak ada bilangan yang dimasukkan (yaitu count == 0), maka program akan menampilkan pesan bahwa **tidak ada** bilangan yang dimasukkan.
 
 ## Hasil Kode Program
-![foto](https://github.com/tir890/foto/blob/fd78231d4e00794d8830fe5cace89bf03a0614be/Screenshot%202024-10-22%20144622.png)
+![foto](https://github.com/tir890/foto/blob/c1aa05ea66d0f13ac91dce8f577f427584d2215c/Screenshot%202024-10-22%20144803.png)
